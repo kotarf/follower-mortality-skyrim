@@ -1,4 +1,4 @@
 # mortal-followers-patch
-A small patch that uses UPF to set all potential followers as non-essential and unprotected
+A small patch that uses zEdit's Unified Patching Framework to set all potential followers as non-essential and unprotected. Soon to add configurable exclusions and optional health-regeneration updates.
 
-Used the example patcher using zEdit's Unified Patching Framework (https://github.com/z-edit/zedit-example-patcher)
+Started with the example patcher here (https://github.com/z-edit/zedit-example-patcher)
